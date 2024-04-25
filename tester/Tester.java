@@ -1,6 +1,6 @@
-package Tester;
+package tester;
 
-import Employee.Employee;
+import employee.Employee;
 
 public class Tester  extends Employee {
     private String testTools;

@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import Developer.Developer;
-import Employee.Employee;
-import Leader.Leader;
-import Tester.Tester;
+import developer.Developer;
+import employee.Employee;
+import leader.Leader;
+import tester.Tester;
 
 public class main {
     public static void main(String[] args) {

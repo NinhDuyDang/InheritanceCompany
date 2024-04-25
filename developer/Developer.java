@@ -1,6 +1,6 @@
-package Developer;
+package developer;
 
-import Employee.Employee;
+import employee.Employee;
 
 public class Developer extends Employee {
 

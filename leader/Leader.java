@@ -1,6 +1,6 @@
-package Leader;
+package leader;
 
-import Employee.Employee;
+import employee.Employee;
 
 public class Leader extends Employee {
 
